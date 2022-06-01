@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"recipe.com.example.food.Service.Simpl","l":"IngredientServiceImpl"}];updateSearchResults();
